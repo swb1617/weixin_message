@@ -1,0 +1,8 @@
+{
+  "app_id": "wx668541b47fcb5a0e",
+  "app_secret": "dd33ce1bcad5b943d302cb97fd7eaa40",
+  "template_id": "VHnQKaMj6I1MFZjQZB4v-_XMPR4NC4onarB6sE_Is6E",
+  "user": ["oWfGO6RweBfTRAnr-B7Err56BX2w","oWfGO6ZSmbExmfT3sy-sEkHbaSOc"],
+  "love_date" : "2021-10-01",
+  "birthday1" : "1999-11-03"
+}
